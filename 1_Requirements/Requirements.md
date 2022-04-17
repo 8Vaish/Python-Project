@@ -22,35 +22,7 @@ Student Management System can be applied in
 - and All the Academic Institutions
 
 # **SWOT Analysis**
-# **Strengths**
-1. Easy access of Data
-2. Reduction of Human Labour
-3. Builds a Strong Alumni
-4. Cost Efficient and User Friendly
-# **Weakness**
-1. Minor Technical Glitches
-2. Risk of Data Mishandling
-3. With huge flow in Traffic,it may have Performance issues. 
-
-# **Opportunities**
-1.Increasing Demand
-2.Enhanced Technological Capability
-
-# **Threat**
-1. Ethical Challenges
+![swot](https://user-images.githubusercontent.com/98880241/163724523-fe99a218-f52f-483d-b35f-8d89f1780684.jpeg)
 
 # **5W 1H**
-# **What**
-It is a system which tracks and maintains Student Records.
-# **Why**
-Doing things Manually can be very time consuming.Automatically it could be easier to manage
-# **When**
-When Information is required to be preserved
-# **Where**
-Schools
-- Colleges
-- and All the Academic Institutions
-# **Who**
-School/College Management,Students,Faculties
-# **How**
-By using Python to Implement
+![WH](https://user-images.githubusercontent.com/98880241/163725593-9d68a198-70c2-4a2b-a06f-c21608fd011c.png)
