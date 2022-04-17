@@ -25,4 +25,5 @@ Student Management System can be applied in
 ![swot](https://user-images.githubusercontent.com/98880241/163724523-fe99a218-f52f-483d-b35f-8d89f1780684.jpeg)
 
 # **5W 1H**
-![WH](https://user-images.githubusercontent.com/98880241/163725593-9d68a198-70c2-4a2b-a06f-c21608fd011c.png)
+![wh2](https://user-images.githubusercontent.com/98880241/163725759-5114a79c-e7bd-4b2a-85c5-2af7f258732e.png)
+
